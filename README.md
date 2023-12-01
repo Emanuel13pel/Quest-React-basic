@@ -12,4 +12,4 @@ Na segunda atividade tinha que Criar um componente Button com um evento de cliqu
 
 ### Captura de tela
 
-##### Desktop ![](./src/images/Laptop.png)
+##### Desktop ![](./src/images/Print.png)
